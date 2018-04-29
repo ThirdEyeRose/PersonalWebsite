@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ben Carney
-subtitle: Check it out
+subtitle: carneyb@umich.edu
 description: Hi there. My name is Ben.
 author: Ben Carney
 email: carneyb@umich.edu
@@ -43,7 +43,7 @@ url: "benjcarney.com" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https://github.com/benjamincarney
 googleplus_url:
 instagram_url:
 linkedin_url:
