@@ -1,9 +1,8 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: "page"
 title: Projects
 icon: fa-book
 order: 2
 ---
+
+Here are some projects I've been working on:
