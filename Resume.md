@@ -2,7 +2,7 @@
 title: Résumé
 subtitle: 
 layout: "page"
-icon: fa-address-card
+icon: fa-file
 order: 4
 ---
 
