@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Social
-icon: fa-home
+icon: fa-user-circle
 order: 3
 ---
 
