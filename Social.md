@@ -1,7 +1,7 @@
 ---
 layout: "page"
-title: Social
-icon: fa-user-circle
+title: Music
+icon: fa-music
 order: 3
 ---
 
