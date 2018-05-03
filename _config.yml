@@ -33,7 +33,7 @@ email: carneyb@umich.edu
 avatar: assets/images/b.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "benjcarney.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "benjcarney.com" # the base hostname & protocol for your site
 
 # Social settings
