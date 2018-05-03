@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Projects
-icon: fa-book
+icon: fa-cogs
 order: 2
 ---
 
