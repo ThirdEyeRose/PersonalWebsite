@@ -7,5 +7,5 @@ icon: fa-file
 order: 4
 ---
 
-!(Resume)[assets/images/Resume.jpg]
+!(Resume)[https://github.com/benjamincarney/PersonalWebsite/blob/master/assets/images/Resume.jpg]
 
