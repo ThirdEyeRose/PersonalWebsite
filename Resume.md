@@ -1,11 +1,11 @@
 ---
 title: Résumé
 subtitle: 
-cover-photo: assets/images/Ben's Resume-1.jpg
+cover-photo: assets/images/Resume.jpg
 layout: "page"
 icon: fa-file
 order: 4
 ---
 
-
+!(Resume)[assets/images/Resume.jpg]
 
