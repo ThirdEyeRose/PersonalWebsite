@@ -7,5 +7,5 @@ icon: fa-file
 order: 4
 ---
 
-
+!(Resume)[assets/images/Resume.jpg]
 
